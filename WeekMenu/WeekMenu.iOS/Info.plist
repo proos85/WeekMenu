@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>WeekMenu</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.WeekMenu</string>
+	<string>com.roos2.weekmenu</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
