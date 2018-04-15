@@ -5,7 +5,6 @@
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
-		<integer>2</integer>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
@@ -21,7 +20,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>11.3</string>
+	<string>11.2</string>
 	<key>CFBundleDisplayName</key>
 	<string>WeekMenu</string>
 	<key>CFBundleIdentifier</key>
